@@ -1,5 +1,5 @@
 # portfolio
-#cssstyle
+# cssstyle
 contains the css properties
-#image
+# image
 contains the images used
